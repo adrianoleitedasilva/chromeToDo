@@ -1,5 +1,5 @@
 {
-    "manifest-version": 3,
+    "manifest-version": 2,
     "name": "Chrome ToDo",
     "description": "Uma extensão de lista de tarefas",
     "version": "1.0",
